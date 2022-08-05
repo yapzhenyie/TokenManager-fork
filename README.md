@@ -4,6 +4,8 @@
 
 A simple economy plugin for spigot. <a href="https://www.spigotmc.org/resources/tokenmanager.8610/">Spigot Project Page</a>
 
+Maintain by Yap Zhen Yie
+
 ---
 
 * **[Wiki](https://github.com/Realizedd/TokenManager/wiki)**
